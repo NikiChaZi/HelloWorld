@@ -1,4 +1,7 @@
 cmake_minimum_required(VERSION 3.10)
 project(HelloWorld)
-set(CMAKE_CXX_STANDARD 17)
-add_executable(HelloWorld 1.cpp)
+
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+add_executable(HelloWorld src/main.cpp)
