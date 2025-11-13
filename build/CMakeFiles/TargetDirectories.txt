@@ -1,3 +1,0 @@
-C:/Users/Никита Сницкий/HelloWorld/build/CMakeFiles/HelloWorld.dir
-C:/Users/Никита Сницкий/HelloWorld/build/CMakeFiles/edit_cache.dir
-C:/Users/Никита Сницкий/HelloWorld/build/CMakeFiles/rebuild_cache.dir

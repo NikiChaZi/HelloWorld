@@ -1,0 +1,8 @@
+build/
+CMakeFiles/
+*.exe
+HelloWorld
+*.o
+CMakeCache.txt
+Makefile
+cmake_install.cmake
